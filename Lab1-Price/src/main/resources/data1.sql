@@ -1,0 +1,10 @@
+INSERT INTO Product (id, name, catagory) VALUES (1, 'Fitbit-4', 'Smart-band');
+INSERT INTO Product (id, name, catagory) VALUES (2, 'Fitbit-3', 'Smart-band');
+INSERT INTO Product (id, name, catagory) VALUES (3, 'Fitbit-2', 'Smart-band');
+INSERT INTO Product (id, name, catagory) VALUES (4, 'Fitbit-1', 'Smart-band');
+INSERT INTO Product (id, name, catagory) VALUES (5, 'OnePlus 5', 'Phone');
+INSERT INTO Product (id, name, catagory) VALUES (6, 'OnePlus 6', 'Phone');
+INSERT INTO Product (id, name, catagory) VALUES (7, 'OnePlus 7', 'Phone');
+INSERT INTO Product (id, name, catagory) VALUES (8, 'OnePlus 7T', 'Phone');
+INSERT INTO Product (id, name, catagory) VALUES (9, 'OnePlus 7T pro', 'Phone');
+commit;
